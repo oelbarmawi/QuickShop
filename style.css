@@ -1,0 +1,16 @@
+body {
+	height: 175px;
+	width: 250px;
+	margin: 10px;
+	/*background-image: url("background.png");*/
+	background-color: #FAFAD2;
+	
+}
+
+
+/* Organized checkboxes in the popup. */
+.domains li {
+    display: block;
+    float: left;
+    width: 50%;
+}
